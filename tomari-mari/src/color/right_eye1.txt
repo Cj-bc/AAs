@@ -1,20 +1,20 @@
-W=250,B=0
-b=232
-            \\\                                 \\
-                \\           ##################  \\\
-                 ################################  \\
-           #######################################
-          #########           /             \   ###
-         ####                /             W \
-         ###                /        ##   WWWW\
-         ###               |BB      #  #   WWWW|
-         ###               |BB  #####  ####    |
-          ###              |BB #    #  #   #   |
-           ##              |BB#     #  #    #  |
-            \\             |BB      #  #    ## |
-             \\            |#\       ##    /  #|
-              \             \ \           /   /
-                             \ \  WWWWWWW/   /
-                              \ \WWWWWWWWW  /
-                               \WWWWWWWWWWW/
-                             ## -----------
+b=232,g=240,
+W=231,B=232,P=218,Q=211,R=138,g=245,
+   \\\                                 \\
+       \\           BBBBBBBBBBBBBBBBBB  \\\
+        BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB  \\
+  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+ BBBBBBBBBWWWWWWWWWWWBRRRRBBBBBBBBBB   BBB
+BBBBWWWWWWWWWWWWWWWWBRRRRBBBBBBBBBWWB
+BBBWWWWWWWWWWWWWWWWBBBBBBBBBggBBBWWWWB
+BBBWWWWWWWWWWWWWWWBBBBBBBBBggggBBBWWWWB
+BBBWWWWWWWWWWWWWWWBBBBBQQQQggggQQQBBBBB
+ BBBWWWWWWWWWWWWWWBBBBQQQQQggggQQQQBBBB
+  BBWWWWWWWWWWWWWWBBBBQQQQQggggQQQQQBBB
+   BBWWWWWWWWWWWWWBBBQQQQPPggggPPPQQQBB
+    BBWWWWWWWWWWWWBQQQPPPPPPggPPPPPPQQB
+     BWWWWWWWWWWWWWBPPPPPPPPPPPPPPPPPB
+         WWWWWWWWWWWBPPPPWWWWWWWWPPPB
+            WWWWWWWWWBWWWWWWWWWWWWWB
+               WWWWWWWBWWWWWWWWWWWB
+                    BB BBBBBBBBBBB
