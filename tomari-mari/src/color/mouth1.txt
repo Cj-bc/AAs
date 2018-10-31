@@ -1,6 +1,8 @@
+
+M=202,S=209,
  ===============  ==
-#               \/  #
-#                   #
-#                   #
- #                 #
+#SSSSMMMMMMMMSSSSSSS#
+#SSMMMMMMMMMMMMMSSSS#
+#MMMMMMMMMMMMMMMMMSS#
+ #MMMMMMMMMMMMMMMMM#
   #################
