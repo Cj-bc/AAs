@@ -17,9 +17,9 @@ data Kadomatu = Kadomatu {base :: Shgif
 
 kadomatuView (Kadomatu b c r l)
         = [ translateBy (Location ( 0,16)) $ shgif b
-          , translateBy (Location (10, 0)) $ shgif c
-          , translateBy (Location (19, 6)) $ shgif r
-          , translateBy (Location ( 1, 6)) $ shgif l
+          , translateBy (Location (11, 0)) $ shgif c
+          , translateBy (Location (20, 6)) $ shgif r
+          , translateBy (Location ( 2, 6)) $ shgif l
           ]
 
 ui :: Kadomatu -> [Widget Name]
