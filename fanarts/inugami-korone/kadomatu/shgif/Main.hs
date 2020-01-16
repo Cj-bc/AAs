@@ -23,8 +23,8 @@ kadomatuView (Kadomatu b c r l fr fl)
           , translateBy (Location (17, 0)) $ shgif c
           , translateBy (Location (26, 5)) $ shgif r
           , translateBy (Location ( 8, 5)) $ shgif l
-          , translateBy (Location (36,10)) $ shgif fr
-          , translateBy (Location ( 6,12)) $ shgif fl
+          , translateBy (Location (36, 6)) $ shgif fr
+          , translateBy (Location ( 0,10)) $ shgif fl
           ]
 
 ui :: AS -> [Widget Name]

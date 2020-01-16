@@ -1,16 +1,21 @@
 title:  Flower right
 author: Cj.bc-sd
 format: Page
-width: 6
-height: 9
+width: 11
+height: 13
 data:
   - timestamp: 0
     contents:
-      - "    ^"
-      - "   <H>"
-      - "   /v"
-      - "  /"
-      - " /  /"
+      - "      ^"
+      - "     <H>"
+      - "      V"
+      - "      |  ^"
+      - "      ^ <H>"
+      - "     <H>/V"
+      - "      V`|"
+      - "   /  ^/"
+      - "  /  <H>"
+      - " /  T/V"
       - "/  //"
       - "  |/"
       - "  x"
