@@ -1,0 +1,12 @@
+title: mouth
+author: Cj-bc
+format: Page
+width: 7
+height: 1
+data:
+  - timestamp: 0
+    contents:
+      - "`====='"
+  - timestamp: 50
+    contents:
+      - "   O"
